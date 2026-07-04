@@ -22,3 +22,11 @@ parameters to your desired package name as seen in the image below.
 It is recommended you refactor your project structure as well when changing package name.
 In `app/src/main/java` starts the `com/example/myapplication` path, which should be named according
 to the app's package name. Rename the folders as necessary.
+
+## Cloning this template
+
+```bash
+git clone https://github.com/ShadowPlasma2009/AndroidAppTemplate.git
+cd AndroidAppTemplate
+```
+Remember to delete files specific to this repository upon cloning: README.md & packagename.png
