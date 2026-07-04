@@ -16,4 +16,4 @@ regardless of system architecture.
   ## Changing the app package name and package structure
   To change the template package name, you will modify  the app-level `build.gradle.kts`
   parameters to your desired package name as seen in the image below.
-  ![Package Name Changing](packagename.jpeg)
+  ![Package Name Changing](packagename.png)
