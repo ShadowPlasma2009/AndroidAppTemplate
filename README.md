@@ -29,4 +29,4 @@ to the app's package name. Rename the folders as necessary.
 git clone https://github.com/ShadowPlasma2009/AndroidAppTemplate.git
 cd AndroidAppTemplate
 ```
-Remember to delete files specific to this repository upon cloning: README.md & packagename.png
+Remember to delete files specific to this repository upon cloning: <mark>README.md & packagename.png</mark>
