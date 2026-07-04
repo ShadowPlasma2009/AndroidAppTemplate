@@ -13,8 +13,12 @@ regardless of system architecture.
 * Kotlin Based:
   Set up for Kotlin and Jetpack Compose by default.
 
-  ## Changing the app package name and package structure
-  To change the template package name, you will modify  the app-level `build.gradle.kts`
-  parameters to your desired package name as seen in the image below.
-  
-  ![Package Name Changing](packagename.png)
+## Changing the app package name and package structure
+To change the template package name, you will modify  the app-level `build.gradle.kts`
+parameters to your desired package name as seen in the image below.
+
+![Package Name Changing](packagename.png)
+
+It is recommended you refactor your project structure as well when changing package name.
+In `app/src/main/java` starts the `com/example/myapplication` path, which should be named according
+to the app's package name. Rename the folders as necessary.
