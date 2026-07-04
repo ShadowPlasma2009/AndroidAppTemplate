@@ -8,8 +8,8 @@ regardless of system architecture.
 
 ## Features
 * Modular:
-  MainScreen.kt is only an entry point. App screens go in `com.application.myapplicatin/ui/screens` and
-  screen components go in `com.application.myapplication/ui/components`.
+  MainScreen.kt is only an entry point. App screens go in `com.example.myapplicatin/ui/screens` and
+  screen components go in `com.example.myapplication/ui/components`.
 * Kotlin Based:
   Set up for Kotlin and Jetpack Compose by default.
 
